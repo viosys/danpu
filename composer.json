@@ -1,19 +1,24 @@
 {
-    "name": "rah/danpu",
+    "name": "viosys/danpu",
     "description": "Zero-dependency MySQL dump library for easily exporting and importing databases",
     "keywords": ["mysql", "sql", "dump", "backup", "restore", "export", "import", "library", "mysqldump", "database", "db"],
-    "homepage": "https://github.com/gocom/danpu",
+    "homepage": "https://github.com/viosys/danpu",
     "license": "MIT",
     "authors": [
         {
             "name": "Jukka Svahn",
             "homepage": "https://github.com/gocom",
             "role": "Developer"
+        },
+        {
+            "name": "VIOSYS AG",
+            "homepage": "https://www.viosys.de",
+            "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/gocom/danpu/issues",
-        "source": "https://github.com/gocom/danpu"
+        "issues": "https://github.com/viosys/danpu/issues",
+        "source": "https://github.com/viosys/danpu"
     },
     "autoload": {
         "psr-0": {
